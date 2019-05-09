@@ -1,5 +1,13 @@
 # PEAN-Stack-Template
 
+## Author Notes
+
+mk dir 'name'
+cd 'name'
+replace 'PEAN-Stack-Template' with 'name' in favorite IDE
+ng build
+node src/server/server.js
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
 ## Development server
