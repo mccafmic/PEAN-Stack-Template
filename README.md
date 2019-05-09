@@ -1,12 +1,13 @@
 # PEAN-Stack-Template
 
 ## Author Notes
+PostgreSQL, Express.js, Angular-CLI, Node.js (PEAN)
 
-mk dir 'name'
-cd 'name'
-replace 'PEAN-Stack-Template' with 'name' in favorite IDE
-ng build
-node src/server/server.js
+mk dir 'name' <br/>
+cd 'name' <br/>
+replace 'PEAN-Stack-Template' with 'name' in favorite IDE <br/>
+ng build <br/>
+node src/server/server.js <br/>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
